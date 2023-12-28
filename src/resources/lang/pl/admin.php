@@ -67,7 +67,7 @@ return [
 
 
     'article.singular' => 'Artykuł',
-    'article.plural' => 'Artykuły',
+    'article.plural' => 'Liczniki',
     'article.title' => 'Tytuł',
     'article.lead' => 'Wprowadzenie',
     'article.text' => 'Tekst',
