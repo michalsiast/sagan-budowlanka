@@ -70,8 +70,7 @@
         <div class="container">
             <div class="middle_bar_inner">
                 <div class="logo">
-                    <a href="index.html" class="light_mode_logo"><img src="{{asset('image/logo.png')}}" alt="logo"></a>
-                    <a href="index.html" class="dark_mode_logo"><img src="images/logo_foot.svg" alt="logo"></a>
+                    <a href="/" class="light_mode_logo"><img src="{{asset('image/logo.png')}}" alt="logo"></a>
                 </div>
 
                 <div class="header_right_part">
